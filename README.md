@@ -12,4 +12,4 @@ excalidraw-client is a client for [excalidraw](https://github.com/excalidraw/exc
 
 ## Download
 
-`https://github.com/m1911star/excalidraw-client/releases`
+`https://github.com/XDcsy/excalidraw-client-chsfont/releases`
